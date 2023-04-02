@@ -1,0 +1,272 @@
+[
+    {
+        "question": "Which fruit is high in vitamin C?",
+        "answers": [
+            "Apple",
+            "Orange",
+            "Banana"
+        ],
+        "correct": "Orange"
+    },
+    {
+        "question": "Which fruit is typically associated with the tropics?",
+        "answers": [
+            "Pineapple",
+            "Peach",
+            "Plum"
+        ],
+        "correct": "Pineapple"
+    },
+    {
+        "question": "What vegetable is used to make french fries?",
+        "answers": [
+            "Carrot",
+            "Potato",
+            "Onion"
+        ],
+        "correct": "Potato"
+    },
+    {
+        "question": "What fruit is used to make guacamole?",
+        "answers": [
+            "Mango",
+            "Pineapple",
+            "Avocado"
+        ],
+        "correct": "Avocado"
+    },
+    {
+        "question": "What fruit is used to make raisins?",
+        "answers": [
+            "Grape",
+            "Apple",
+            "Pear"
+        ],
+        "correct": "Grape"
+    },
+    {
+        "question": "Which fruit is known for its fuzzy exterior and sweet, juicy interior?",
+        "answers": [
+            "Peach",
+            "Banana",
+            "Lemon"
+        ],
+        "correct": "Peach"
+    },
+    {
+        "question": "Which vegetable is often used in salads and is a good source of Vitamin K?",
+        "answers": [
+            "Lettuce",
+            "Carrot",
+            "Broccoli"
+        ],
+        "correct": "Lettuce"
+    },
+    {
+        "question": "Which fruit is known for its sour flavor and is often used in cooking and baking?",
+        "answers": [
+            "Lemon",
+            "Strawberry",
+            "Pineapple"
+        ],
+        "correct": "Lemon"
+    },
+    {
+        "question": "Which berry is often used in jams and is a good source of Vitamin C?",
+        "answers": [
+            "Raspberry",
+            "Blackberry",
+            "Blueberry"
+        ],
+        "correct": "Raspberry"
+    },
+    {
+        "question": "Which fruit is known for its tropical flavor and is often used in cocktails?",
+        "answers": [
+            "Pineapple",
+            "Grapefruit",
+            "Apple"
+        ],
+        "correct": "Pineapple"
+    },
+    {
+        "question": "Which vegetable is often used in stir-fry dishes and is a good source of fiber?",
+        "answers": [
+            "Eggplant",
+            "Zucchini",
+            "Broccoli"
+        ],
+        "correct": "Broccoli"
+    },
+    {
+        "question": "Which vegetable is often used in soups and stews and is a good source of Vitamin A?",
+        "answers": [
+            "Carrot",
+            "Potato",
+            "Onion"
+        ],
+        "correct": "Carrot"
+    },
+    {
+        "question": "What vegetable is used to make ratatouille?",
+        "answers": [
+            "Eggplant",
+            "Cauliflower",
+            "Broccoli"
+        ],
+        "correct": "Eggplant"
+    },
+    {
+        "question": "What vegetable is used to make a vegetable stir-fry?",
+        "answers": [
+            "Zucchini",
+            "Carrot",
+            "Potato"
+        ],
+        "correct": "Carrot"
+    },
+    {
+        "question": "What vegetable is used to make salsa?",
+        "answers": [
+            "Tomato",
+            "Potato",
+            "Cauliflower"
+        ],
+        "correct": "Tomato"
+    },
+    {
+        "question": "Which of the following vegetables is high in iron?",
+        "answers": [
+            "Broccoli",
+            "Carrot",
+            "Cucumber"
+        ],
+        "correct": "Broccoli"
+    },
+    {
+        "question": "Which of the following vegetables is a good source of vitamin K?",
+        "answers": [
+            "Kale",
+            "Spinach",
+            "Lettuce"
+        ],
+        "correct": "Kale"
+    },
+    {
+        "question": "Which vegetable is known for its high levels of lycopene?",
+        "answers": [
+            "Tomato",
+            "Eggplant",
+            "Cabbage"
+        ],
+        "correct": "Tomato"
+    },
+    {
+        "question": "Which vegetable is rich in antioxidants and can help improve eye health?",
+        "answers": [
+            "Carrot",
+            "Pepper",
+            "Radish"
+        ],
+        "correct": "Carrot"
+    },
+    {
+        "question": "Which of the following vegetables is a member of the cruciferous family and is known to have anti-cancer properties?",
+        "answers": [
+            "Zucchini",
+            "Cauliflower",
+            "Asparagus"
+        ],
+        "correct": "Cauliflower"
+    },
+    {
+        "question": "Which vegetable is commonly used to make pickles?",
+        "answers": [
+            "Cucumber",
+            "Eggplant",
+            "Zucchini"
+        ],
+        "correct": "Cucumber"
+    },
+    {
+        "question": "Which vegetable is a great source of dietary fiber and is known to aid in digestion?",
+        "answers": [
+            "Spinach",
+            "Sweet Potato",
+            "Celery"
+        ],
+        "correct": "Celery"
+    },
+    {
+        "question": "Which vegetable is used as a common ingredient in Italian cuisine, particularly in pizza and pasta dishes?",
+        "answers": [
+            "Mushroom",
+            "Bell Pepper",
+            "Garlic"
+        ],
+        "correct": "Mushroom"
+    },
+    {
+        "question": "Which berry is commonly used in smoothies and is known for its high antioxidant content?",
+        "answers": [
+            "Strawberry",
+            "Blueberry",
+            "Blackberry"
+        ],
+        "correct": "Blueberry"
+    },
+    {
+        "question": "Which berry is often referred to as a superfood and is a good source of fiber and vitamin C?",
+        "answers": [
+            "Raspberry",
+            "Goji Berry",
+            "Cranberry"
+        ],
+        "correct": "Raspberry"
+    },
+    {
+        "question": "Which berry is native to North America and is commonly used in pies and jams?",
+        "answers": [
+            "Huckleberry",
+            "Boysenberry",
+            "Loganberry"
+        ],
+        "correct": "Huckleberry"
+    },
+    {
+        "question": "Which berry is typically larger than most other berries and is often used in baking?",
+        "answers": [
+            "Strawberry",
+            "Cranberry",
+            "Blackberry"
+        ],
+        "correct": "Blackberry"
+    },
+    {
+        "question": "Which fruit is commonly referred to as the 'king of fruits' in Southeast Asia?",
+        "answers": [
+            "Mango",
+            "Pineapple",
+            "Papaya"
+        ],
+        "correct": "Mango"
+    },
+    {
+        "question": "Which fruit is a good source of potassium and is known to lower blood pressure?",
+        "answers": [
+            "Grapefruit",
+            "Pomegranate",
+            "Banana"
+        ],
+        "correct": "Banana"
+    },
+    {
+        "question": "Which fruit is rich in vitamin C and is believed to have originated in the Amazon rainforest?",
+        "answers": [
+            "Pineapple",
+            "Mango",
+            "Acai Berry"
+        ],
+        "correct": "Acai Berry"
+    }
+]
